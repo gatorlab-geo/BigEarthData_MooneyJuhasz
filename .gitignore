@@ -1,0 +1,15 @@
+# Credentials — never commit real API keys
+.env
+
+# Raw Scopus API payloads (excluded per Elsevier Terms of Service)
+raw/
+
+# Jupyter & Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+.~lock.*

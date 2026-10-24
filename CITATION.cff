@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "Reproducibility Package: Scientometric Analysis of the Big Earth Data Journal (2017–2026)"
+message: "If you use this reproducibility package, code, or aggregated data, please cite both this repository and the companion article."
+type: software
+authors:
+  - given-names: Levente
+    family-names: Juhász
+    email: levente.juhasz@ufl.edu
+    affiliation: "GATOR Lab, University of Florida"
+    orcid: "https://orcid.org/0000-0003-3393-4021"
+  - given-names: Peter
+    family-names: Mooney
+    affiliation: "Department of Computer Science, Maynooth University"
+    orcid: "https://orcid.org/0000-0002-2389-3783"
+repository-code: "https://github.com/gatorlab-geo/BigEarthData_MooneyJuhasz"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-24"
+keywords:
+  - scientometrics
+  - bibliometrics
+  - Big Earth Data
+  - GIScience
+  - scholarly publishing
+  - reproducible research
+references:
+  - type: article
+    title: "A mixed-methods retrospective and reflective analysis of the Big Earth Data journal"
+    authors:
+      - given-names: Peter
+        family-names: Mooney
+        orcid: "https://orcid.org/0000-0002-2389-3783"
+      - given-names: Levente
+        family-names: Juhász
+        orcid: "https://orcid.org/0000-0003-3393-4021"
+    journal: "Big Earth Data"
+    year: 2026

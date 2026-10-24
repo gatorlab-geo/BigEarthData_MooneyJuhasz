@@ -1,0 +1,34 @@
+{
+  "title": "Reproducibility Package: Scientometric Analysis of the Big Earth Data Journal (2017–2026)",
+  "upload_type": "software",
+  "description": "<p>Self-contained Jupyter notebooks, anonymized aggregated datasets, publication-grade figures, and summary tables supporting the scientometric analysis in <em>\"A mixed-methods retrospective and reflective analysis of the Big Earth Data journal\"</em> (Mooney &amp; Juhász, <em>Big Earth Data</em>, 10-Year Retrospective Special Issue). Covers all 356 Scopus-indexed items (339 citable publications) published in <em>Big Earth Data</em> from launch in 2017 through August 30, 2026.</p>",
+  "creators": [
+    {
+      "name": "Juhász, Levente",
+      "affiliation": "GATOR Lab, University of Florida",
+      "orcid": "0000-0003-3393-4021"
+    },
+    {
+      "name": "Mooney, Peter",
+      "affiliation": "Department of Computer Science, Maynooth University",
+      "orcid": "0000-0002-2389-3783"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "scientometrics",
+    "bibliometrics",
+    "Big Earth Data",
+    "GIScience",
+    "Earth observation",
+    "scholarly publishing",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1080/13658816.2024.2347306",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    }
+  ]
+}

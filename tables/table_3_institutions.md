@@ -1,0 +1,17 @@
+| Rank | Institution | Affiliations |
+|---:|:---|---:|
+| 1 | Chinese Academy of Sciences | 150 |
+| 2 | University of Chinese Academy of Sciences | 58 |
+| 3 | Wuhan University | 19 |
+| 4 | International Research Center of Big Data for Sustainable Development Goals | 13 |
+| 5 | Ministry of Natural Resources of the People's Republic of China | 13 |
+| 6 | University of Helsinki | 11 |
+| 7 | Tsinghua University | 10 |
+| 8 | Nanjing Normal University | 9 |
+| 9 | Peking University | 9 |
+| 10 | University of Geneva | 9 |
+| 11 | University of Salzburg | 9 |
+| 12 | Beijing Normal University | 8 |
+| 13 | China University of Geosciences | 8 |
+| 14 | Nanjing University | 8 |
+| 15 | Sun Yat-Sen University | 8 |

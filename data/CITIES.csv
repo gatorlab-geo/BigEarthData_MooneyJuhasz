@@ -1,0 +1,353 @@
+country,city,num
+Australia,Melbourne,7
+Australia,Sydney,4
+Australia,Brisbane,3
+Australia,Symonston,3
+Australia,Canberra,2
+Australia,Indooroopilly,1
+Australia,Perth,1
+Australia,Unknown,1
+Australia,Wollongong,1
+Austria,Salzburg,9
+Austria,Vienna,5
+Austria,Linz,2
+Austria,Laxenburg,1
+Austria,Unknown,1
+Belgium,Brussels,8
+Belgium,Ghent,1
+Belgium,Oostende,1
+Belgium,Wavre,1
+Bolivia,La Paz,1
+Bolivia,Santa Cruz,1
+Brazil,Sao Paulo,3
+Brazil,Campo Grande,2
+Brazil,Sao Jose dos Campos,2
+Brazil,Belem,1
+Brazil,Brasília,1
+Brazil,Caceres,1
+Brazil,Campina Grande,1
+Brazil,Campinas,1
+Brazil,Fortaleza,1
+Brazil,Joao Pessoa,1
+Brazil,Londrina,1
+Brazil,Maceio,1
+Brazil,Niteroi,1
+Brazil,Santa Maria,1
+Canada,Ottawa,6
+Canada,Burnaby,5
+Canada,Toronto,4
+Canada,Fredericton,2
+Canada,Calgary,1
+Canada,Delta,1
+Canada,Gatineau,1
+Canada,Guelph,1
+Canada,Kingston,1
+Canada,Levis,1
+Canada,Montreal,1
+Canada,Ottawa and Cambridge Bay,1
+Canada,Quebec,1
+Canada,Saskatoon,1
+Canada,St John's,1
+Canada,St. John’s,1
+Canada,Trois-Rivieres,1
+Canada,Victoria,1
+Canada,Waterloo,1
+China,Beijing,149
+China,Wuhan,27
+China,Nanjing,23
+China,Qingdao,13
+China,Guangzhou,12
+China,Lanzhou,10
+China,Chengdu,9
+China,Shanghai,6
+China,Shenzhen,5
+China,Tianjin,5
+China,Urumqi,5
+China,Changsha,4
+China,Kunming,4
+China,Xi'an,4
+China,Zhengzhou,4
+China,Fuzhou,3
+China,Hangzhou,3
+China,Jinan,3
+China,Kaifeng,3
+China,Nanchang,3
+China,Sanya,3
+China,Shantou,3
+China,Xiangtan,3
+China,Zhuhai,3
+China,Changchun,2
+China,Guilin,2
+China,Huzhou,2
+China,Xiamen,2
+China,Xuzhou,2
+China,Yinchuan,2
+China,Zhoushan,2
+China,Zibo,2
+China,Baoding,1
+China,Changde,1
+China,Chongqing,1
+China,Dalian,1
+China,Deqing,1
+China,Fuxin,1
+China,Guiyang,1
+China,Haikou,1
+China,Hainan,1
+China,Hengyang,1
+China,Hohhot,1
+China,Jilin,1
+China,Lhasa,1
+China,Lianyungang,1
+China,Meizhou,1
+China,Nanning,1
+China,Ningbo,1
+China,Ordos,1
+China,Shenyang,1
+China,Shijiazhuang,1
+China,Suzhou,1
+China,Tianshui,1
+China,Wuhu,1
+China,Xingtai,1
+China,Xining,1
+China,Xinyang,1
+China,Ya'an,1
+China,Yangling,1
+China,Yantai,1
+China,Yiyang,1
+China,Yong’an,1
+Colombia,Bogota,1
+Colombia,Neiva,1
+Colombia,Pasto,1
+Croatia,Split,1
+Cyprus,Limassol,2
+Cyprus,Nicosia,1
+Czechia,Prague,4
+Czechia,Olomouc,1
+Czechia,Ostrava,1
+Denmark,Copenhagen,3
+Egypt,Cairo,1
+Egypt,Giza,1
+Egypt,New Borg El Arab,1
+Estonia,Tartu,5
+Ethiopia,Makale,1
+Finland,Helsinki,13
+Finland,Lappeenranta,2
+Finland,Lahti,1
+Finland,Oulu,1
+France,Paris,2
+France,Aubiere,1
+France,Brest,1
+France,Clermont-Ferrand,1
+France,Pordic,1
+France,Ramonville,1
+France,Toulouse,1
+Germany,Koln,6
+Germany,Bonn,3
+Germany,Hannover,3
+Germany,Leipzig,3
+Germany,Bremerhaven,2
+Germany,Dresden/Leipzig,2
+Germany,Hamburg,2
+Germany,Julich,2
+Germany,Munich,2
+Germany,Osnabruck,2
+Germany,Potsdam,2
+Germany,Berlin,1
+Germany,Bremen,1
+Germany,Dresden,1
+Germany,Frankfurt am Main,1
+Germany,Giessen,1
+Germany,Halle,1
+Germany,Heidelberg,1
+Germany,Jena,1
+Germany,Karlsruhe,1
+Germany,Luneburg,1
+Germany,Mainz,1
+Germany,Passau,1
+Germany,Seefeld,1
+Germany,Wurzburg,1
+Greece,Athens,4
+Greece,Heraklion,2
+Greece,Chania,1
+Hong Kong S.A.R.,Hong Kong,7
+Hungary,Budapest,1
+Hungary,Godollo,1
+India,Aizawl,1
+India,New Delhi,1
+Indonesia,Depok,1
+Iran,Tehran,7
+Iran,Tabriz,2
+Iran,Ahvaz,1
+Ireland,Galway,1
+Italy,Rome,7
+Italy,Frascati,4
+Italy,Milan,3
+Italy,Bologna,1
+Italy,Bolzano,1
+Italy,Padua,1
+Italy,Sesto Fiorentino,1
+Japan,Tokyo,5
+Japan,Kasugai,2
+Japan,Sendai,2
+Japan,Tsukuba,2
+Japan,Chiyoda-ku,1
+Japan,Gifu,1
+Japan,Miyazaki,1
+Japan,Uji,1
+Kazakhstan,Astana,1
+Kenya,Nairobi,1
+Latvia,Riga,1
+Luxembourg,Luxembourg,2
+Luxembourg,Luxembourg-City Incubator,1
+Macao S.A.R,Taipa,1
+Moldova,Chisinau,1
+Mongolia,Ulaanbaatar,1
+Morocco,Ben Guerir,1
+Morocco,Beni Mellal,1
+Morocco,Marakech,1
+Mozambique,Beira,1
+Nepal,Kathmandu,1
+Netherlands,Delft,6
+Netherlands,Amsterdam,2
+Netherlands,Unknown,1
+New Zealand,Palmerston North,1
+Nigeria,Akure,2
+Nigeria,Ado-Ekiti,1
+Nigeria,Oye-Ekiti,1
+Norway,Trondheim,3
+Norway,Bergen,2
+Norway,As,1
+Norway,Skedsmokorset,1
+Norway,Tromso,1
+Pakistan,Islamabad,1
+Poland,Krakow,1
+Portugal,Lisbon,3
+Portugal,Aveiro,1
+Romania,Bucharest,3
+Romania,Brasov,1
+Romania,Brașov,1
+Romania,Timisoara,1
+Russia,Moscow,4
+Russia,Tyumen,2
+Russia,Kazan,1
+Russia,Nizhny Novgorod,1
+Singapore,Singapore City,3
+Slovenia,Ljubljana,1
+South Africa,Pretoria,2
+South Africa,Alice,1
+South Africa,Grahamstown,1
+South Korea,Gyeongsan,1
+South Korea,Naju,1
+Spain,Valencia,3
+Spain,Madrid,2
+Spain,Moncada,1
+Spain,Santander,1
+Spain,Sevilla,1
+Sri Lanka,Mathara,1
+Sweden,Gothenburg,2
+Sweden,Lund,2
+Sweden,Stockholm,2
+Sweden,Norrkoping,1
+Sweden,Uppsala,1
+Switzerland,Geneva,12
+Switzerland,Birmensdorf,1
+Switzerland,Dubendorf,1
+Switzerland,Villigen,1
+Switzerland,Zurich,1
+Thailand,Bangkok,5
+Thailand,Khlong Luang,2
+Thailand,Chaiyaphum,1
+Thailand,Maha Sarakham,1
+Turkey,Istanbul,2
+United Kingdom,Southampton,3
+United Kingdom,Aberystwyth,1
+United Kingdom,Bournemouth,1
+United Kingdom,Derby,1
+United Kingdom,Edinburgh,1
+United Kingdom,Glasgow,1
+United Kingdom,Leeds,1
+United Kingdom,London,1
+United Kingdom,Nottingham,1
+United Kingdom,Oxford,1
+United Kingdom,Plymouth,1
+United States of America,Cambridge,5
+United States of America,Fairfax,5
+United States of America,"Washington, D.C.",4
+United States of America,Boulder,3
+United States of America,College Park,3
+United States of America,Fayetteville,3
+United States of America,Woods Hole,3
+United States of America,Ames,2
+United States of America,Ann Arbor,2
+United States of America,Austin,2
+United States of America,Baltimore,2
+United States of America,Buffalo,2
+United States of America,Chicago,2
+United States of America,College Station,2
+United States of America,Columbia,2
+United States of America,Fort Collins,2
+United States of America,La Jolla,2
+United States of America,Los Angeles,2
+United States of America,Madison,2
+United States of America,New York,2
+United States of America,Oak Ridge,2
+United States of America,Pasadena,2
+United States of America,Philadelphia,2
+United States of America,Redlands,2
+United States of America,San Marcos,2
+United States of America,Tucson,2
+United States of America,Arlington,1
+United States of America,Armonk,1
+United States of America,Athens,1
+United States of America,Atlanta,1
+United States of America,Babson Park,1
+United States of America,Beaufort,1
+United States of America,Beltsville,1
+United States of America,Berkeley,1
+United States of America,Billerica,1
+United States of America,Blacksburg,1
+United States of America,Boise,1
+United States of America,Boston,1
+United States of America,Carolina,1
+United States of America,Corvallis,1
+United States of America,Darien,1
+United States of America,Dayton,1
+United States of America,Denver,1
+United States of America,Durham,1
+United States of America,East Lansing,1
+United States of America,Evanston,1
+United States of America,Hampton,1
+United States of America,Honolulu,1
+United States of America,Iowa City,1
+United States of America,Ithaca,1
+United States of America,Kent,1
+United States of America,Knoxville,1
+United States of America,Lemont,1
+United States of America,Lincoln,1
+United States of America,Louisville,1
+United States of America,Middletown,1
+United States of America,Minneapolis,1
+United States of America,Moss Landing,1
+United States of America,Newark,1
+United States of America,Norman,1
+United States of America,Notre Dame,1
+United States of America,Palisades,1
+United States of America,Piscataway,1
+United States of America,Pittsburgh,1
+United States of America,Portsmouth,1
+United States of America,Princeton,1
+United States of America,Saint Paul,1
+United States of America,San Jose,1
+United States of America,Santa Barbara,1
+United States of America,Seattle,1
+United States of America,Silver Spring,1
+United States of America,St. Louis,1
+United States of America,Sterling,1
+United States of America,Syracuse,1
+United States of America,Tampa,1
+United States of America,Tuscaloosa,1
+United States of America,University Park,1
+United States of America,Unknown,1
+United States of America,West Lafayette,1
+Uruguay,Montevideo,1
+Vietnam,Hanoi,1
